@@ -2,9 +2,9 @@
 
 This is where you and your team will place design documents, notes, research, etc.
 
-**Use the changelog to demonstrate your active participation and progress to us, this is how you are graded**
+We want to see your individual contributions and progress over time, so make sure each of
+you contribute substantially. We will look at the commit history to see your contributions.
 
 # Submission
 
 1. All your work!
-1. Updated changelog
